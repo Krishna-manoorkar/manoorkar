@@ -1,3 +1,4 @@
+<img src="1000054264.jpg" width="200">
 ![My Image](1000054264.jpg)
 
 ## Introduction
