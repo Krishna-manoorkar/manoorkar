@@ -1,4 +1,3 @@
-\usepackage {pdfpages}
 ## Krishna Manoorkar
 ![My Image](images/myimage.png)
 
@@ -9,7 +8,7 @@ My research focuses on logic and its applications to theoretical computer scienc
 
 
 
-- [MY CV] ![[Krishna_CV.pdf]]
+- [MY CV] 
 - [Comprehensive formal framework for catgeorization](categorization.md)
 - [Contact](contact.md)
 
