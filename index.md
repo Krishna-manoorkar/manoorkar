@@ -1,4 +1,3 @@
-## Krishna Manoorkar
 ![My Image](images/myimage.png)
 
 ## Introduction
