@@ -1,4 +1,4 @@
-![My Image](my image_1.jpg)
+[My Image](my image_1.jpg)
 
 ## Introduction
 I am a PhD student at Vrije University, Amsterdam, the Netherlands as the School of Business and Economics under supervision of Prof. Alessandra Palmigiano and Prof. Nachoem Wijnberg.
