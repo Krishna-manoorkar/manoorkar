@@ -1,3 +1,4 @@
+\usepackage {pdfpages}
 ## Krishna Manoorkar
 ![My Image](images/myimage.png)
 
