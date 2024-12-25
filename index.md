@@ -1,5 +1,5 @@
 ## Krishna Manoorkar
-
+![My Image](images/myimage.png)
 
 ## Introduction
 I am a PhD student at Vrije University, Amsterdam, the Netherlands as the School of Business and Economics under supervision of Prof. Alessandra Palmigiano and Prof. Nachoem Wijnberg.
@@ -13,5 +13,5 @@ My research has largely focused on developing a formal framework for categorizat
 - [Contact](contact.md)
 
 
-![My Image](images/myimage.png)
+
 
