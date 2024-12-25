@@ -9,7 +9,7 @@ My research focuses on logic and its applications to theoretical computer scienc
 
 
 - [Comprehensive formal framework for catgeorization](categorization.md)
-- [Comprehensive formal framework for catgeorization](categorization.md)
+- [My CV](categorization.md)
 - [Contact](contact.md)
 
 
