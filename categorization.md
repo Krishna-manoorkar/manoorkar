@@ -1,4 +1,4 @@
-title:project page
+
 
 
 # Formal model for categorization and reasoning about categories
