@@ -1,4 +1,4 @@
-<img src="1000054264.jpg" width="200">
+<img src="1000054264.jpg" width="100 height="100"">
 ## Introduction
 I am a PhD student at Vrije University, Amsterdam, the Netherlands as the School of Business and Economics under supervision of Prof. Alessandra Palmigiano and Prof. Nachoem Wijnberg.
 
