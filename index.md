@@ -8,8 +8,8 @@ My research focuses on logic and its applications to theoretical computer scienc
 
 
 
-- [MY CV] 
 - [Comprehensive formal framework for catgeorization](categorization.md)
+- [My CV]
 - [Contact](contact.md)
 
 
