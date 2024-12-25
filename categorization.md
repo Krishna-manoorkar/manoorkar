@@ -1,5 +1,4 @@
-
-
+title: Formal model for categorization and reasoning about categories
 
 # Formal model for categorization and reasoning about categories
 
